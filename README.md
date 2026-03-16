@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mokshsharma2006" alt="mokshsharma2006" /></a> </p>
 
-- 🌱 I’m currently learning **C#,Bash,Java**
+- 🌱 I’m currently learning **C#,Bash,Java.**
 
 - 💬 Ask me about **Python,MySQL,Arduino,C,C++Linux,CSS,HTML,PHP**
 
