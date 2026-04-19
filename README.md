@@ -9,10 +9,4 @@
 ![](https://streak-stats.demolab.com/?user=MokshSharma2006&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MokshSharma2006&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MokshSharma2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=MokshSharma2006&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
